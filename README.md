@@ -1,6 +1,6 @@
 # Lifting Blog
 
-Static website for [lifting.eddie-summers.com](https://lifting.eddie-summers.com).
+Formerly the static website for [lifting.eddie-summers.com](https://lifting.eddie-summers.com).
 
 ## :clipboard: Requirements
 
